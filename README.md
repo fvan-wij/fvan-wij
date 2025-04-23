@@ -1,6 +1,4 @@
 ## Hi there 👋
-🎨 Artist & 💻 Coder
-Hello! I'm PepeLevi, a passionate artist and coder with a unique blend of creativity and technical skills. I studied art at UCM Madrid and honed my coding expertise at 42 Berlin. My work bridges the gap between artistic expression and cutting-edge technology.
 
 About Me
 

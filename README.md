@@ -4,9 +4,10 @@
 
 Versatile in creative media and design. Produced soundtracks, interactive visuals, and video tutorials. Skilled in programming (C, C++, C#, TypeScript) and adept with a wide array of multimedia software (Ableton, Max 8, TouchDesigner, Unity, Blender, DaVinci Resolve, Adobe Suite, Figma), I bring a unique blend of technical and artistic expertise to every project.
 
-- 🔭 I’m currently working on ...
-ft_transcendence (Game programmer, UI/UX designer, network programmer) - Magnum Opus of Codam's curriculum, a containarized MMO/Club Penguin style web game where players can chat and play pong against each other.
-KLOTEN (soundesigner / film composer) - A movie about the effects of toxic masculinity on friendships
+#### I’m currently working on 🔭 ...
+
+- ft_transcendence (Game programmer, UI/UX designer, network programmer) - Magnum Opus of Codam's curriculum, a containarized MMO/Club Penguin style web game where players can chat and play pong against each other.
+- KLOTEN (soundesigner / film composer) - A movie about the effects of toxic masculinity on friendships
 
 ### Skills 💻 
 Programming Languages: C, C++, C#, JavaScript/TypesScript
@@ -21,7 +22,7 @@ C C++ Python Bash MySQL Git Docker Linux Django JavaScript
 - Telestein 3D
 - FDF
 - DURUMMACHINE
-- 
+
 
 <!--
 **fvan-wij/fvan-wij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

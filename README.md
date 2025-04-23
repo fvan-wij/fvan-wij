@@ -4,10 +4,6 @@ Hello! I'm PepeLevi, a passionate artist and coder with a unique blend of creati
 
 About Me
 
-
-
-
-- **Description**: A modified version of the Cub3D project compatible with Emscripten, allowing it to run in web browsers using WebAssembly. - **Live Demo**: [Cub3D WebAssembly](https://pepelevi.github.io/Cub3d_webasm/)
 💻 Skills
 Programming Languages: C, C++, C#, JavaScript/TypesScript
 Web Technologies: HTML, CSS, Tailwind, Vite, Emscripten

@@ -6,35 +6,42 @@ Versatile in creative media and design. Produced soundtracks, interactive visual
 
 #### I’m currently working on 🔭 ...
 
-- ft_transcendence (Game programmer, UI/UX designer, network programmer) - Magnum Opus of Codam's curriculum, a containarized MMO/Club Penguin style web game where players can chat and play pong against each other.
-- KLOTEN (soundesigner / film composer) - A movie about the effects of toxic masculinity on friendships
-
-### Skills 💻 
-Programming Languages: C, C++, C#, JavaScript/TypesScript
-Web Technologies: HTML, CSS, Tailwind, Vite, Emscripten
-Tools & Technologies: Docker, Git, WebAssembly
-Graphics & Game Development: OpenFrameworks, Unity, P5.js, Processing
-C C++ Python Bash MySQL Git Docker Linux Django JavaScript
-📫 Connect with Me
+- [ft_transcendence](https://github.com/trendy-sand-dance/transcendence) (Game programmer, UI/UX designer, network programmer) - Magnum Opus of Codam's curriculum, a containarized MMO/Club Penguin style web game where players can chat and play pong against each other.
+- [KLOTEN](https://www.instagram.com/kloten.film/) (soundesigner / film composer) - A movie about the effects of toxic masculinity on friendships (in production)
 
 ### Highlights
-- Club Pong (coming soon...)
-- Telestein 3D
-- FDF
-- DURUMMACHINE
+  - [Club Pong (coming soon...)](https://github.com/trendy-sand-dance/transcendence) (Docker, TypeScript)
+  - [Telestein 3D](https://github.com/fvan-wij/Cub3d_Telestein3D) (C)
+  - [FDF wireframe generator](https://github.com/fvan-wij/fdf) (C)
+  - [DÜRÜMMACHINE](https://github.com/fvan-wij/durumachine_sequencer) (JavaScript)
+  - [Hoodie Generator](https://github.com/fvan-wij/HoodieDesignGenerator) (JavaScript)
+  - [Interactive Kinect installation](https://github.com/fvan-wij/Interactive-Kinect-Installation-Phantasm) (C++)
+  - [HTTP Webserver](https://github.com/fvan-wij/webserver) (C++)
+  - [Bash-clone](https://github.com/fvan-wij/minishell-Z-Shell-) (C)
 
+### Skills 💻 
+Programming Languages:
+  - C
+  - C++
+  - C#
+  - JavaScript/TypesScript
 
-<!--
-**fvan-wij/fvan-wij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Technologies: 
+  - HTML/CSS/Tailwind
+  - Vite
+  - Emscripten
+  - Fastify
+  - Prisma
 
-Here are some ideas to get you started:
+Tools & Technologies:
+  - Docker
+  - Git
+  - WebAssembly
+  - Bash
+  - Linux
+  - Neovim
+  - MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me
+[Instagram](https://www.instagram.com/flip_immute/)
+[LinkedIn](https://www.linkedin.com/in/flip-van-wijk-3906a6154/)

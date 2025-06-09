@@ -8,21 +8,21 @@ Versatile in creative media and design. Produced soundtracks, interactive visual
 
 ### Currently Working On 🔭
 
-- 🎮 [**ft_transcendence**](https://github.com/trendy-sand-dance/transcendence) — Game programmer, UI/UX & network developer. Magnum Opus of Codam: a containerized MMO/Club Penguin-style web game (chat & pong battles!).
-- 🎬 [**KLOTEN**](https://www.instagram.com/kloten.film/) — Sound designer / film composer. A movie about the effects of toxic masculinity on friendships.
+- 🎮 [**ft_transcendence**](https://github.com/trendy-sand-dance/transcendence) - Game programmer, UI/UX & network developer. Magnum Opus of Codam: a containerized MMO/Club Penguin-style web game (chat & pong battles!).
+- 🎬 [**KLOTEN**](https://www.instagram.com/kloten.film/) - Sound designer / film composer. A movie about the effects of toxic masculinity on friendships.
 
 ---
 
 ### Highlights 🚀
 
-- [Club Pong (coming soon...)](https://github.com/trendy-sand-dance/transcendence) — (Docker, TypeScript)
-- [Telestein 3D](https://github.com/fvan-wij/Cub3d_Telestein3D) — (C)
-- [FDF Wireframe Generator](https://github.com/fvan-wij/fdf) — (C)
-- [DÜRÜMMACHINE Sequencer](https://github.com/fvan-wij/durumachine_sequencer) — (JavaScript)
-- [Hoodie Generator](https://github.com/fvan-wij/HoodieDesignGenerator) — (JavaScript)
-- [Interactive Kinect Installation](https://github.com/fvan-wij/Interactive-Kinect-Installation-Phantasm) — (C++)
-- [HTTP Webserver](https://github.com/fvan-wij/webserver) — (C++)
-- [Bash-clone (MiniShell)](https://github.com/fvan-wij/minishell-Z-Shell-) — (C)
+- [Club Pong (coming soon...)](https://github.com/trendy-sand-dance/transcendence) - (Docker, TypeScript)
+- [Telestein 3D](https://github.com/fvan-wij/Cub3d_Telestein3D) - (C)
+- [FDF Wireframe Generator](https://github.com/fvan-wij/fdf) - (C)
+- [DÜRÜMMACHINE Sequencer](https://github.com/fvan-wij/durumachine_sequencer) - (JavaScript)
+- [Hoodie Generator](https://github.com/fvan-wij/HoodieDesignGenerator) - (JavaScript)
+- [Interactive Kinect Installation](https://github.com/fvan-wij/Interactive-Kinect-Installation-Phantasm) - (C++)
+- [HTTP Webserver](https://github.com/fvan-wij/webserver) - (C++)
+- [Bash-clone (MiniShell)](https://github.com/fvan-wij/minishell-Z-Shell-) - (C)
 
 ---
 
